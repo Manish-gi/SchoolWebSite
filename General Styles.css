@@ -113,7 +113,7 @@ header nav ul li a:hover {
 }
 
 .facility img:hover {
-    transform: scale(1.1);
+    transform: scale(5.1);
 }
 
 .gallery {
