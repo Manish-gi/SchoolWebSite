@@ -113,7 +113,7 @@ header nav ul li a:hover {
 }
 
 .facility img:hover {
-    transform: scale(5.1);
+    transform: scale(1.1);
 }
 
 .gallery {
@@ -130,7 +130,7 @@ header nav ul li a:hover {
 }
 
 .gallery img:hover {
-    transform: scale(5.1);
+    transform: scale(1.1);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
