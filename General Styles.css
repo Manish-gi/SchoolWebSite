@@ -5,7 +5,22 @@ body {
     line-height: 1.6;
     color: #333;
 }
-
+.counter-container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            display: flex;
+            justify-content: space-around;
+            width: 60%;
+        }
+        .counter {
+            font-size: 2rem;
+            font-weight: bold;
+            color: grey;
+            margin: 10px 0;
+            transition: color 2s ease-in-out;
+        }
 header {
     background: #004d99;
     color: #fff;
@@ -46,7 +61,12 @@ header nav ul li a:hover {
     text-align: center;
     padding: 5rem 1rem;
 }
-
+#counter{
+	display: flex;
+            justify-content: center;
+            align-items: center;
+            
+}
 #hero h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
